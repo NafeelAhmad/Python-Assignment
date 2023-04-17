@@ -1,6 +1,6 @@
 # Python-Assignment
 
-# (1) Function that input a number and print the multiplication of number.
+(1) Function that input a number and print the multiplication of number.
 
 (2) Program to print Twin Prime less than 1000.
 
